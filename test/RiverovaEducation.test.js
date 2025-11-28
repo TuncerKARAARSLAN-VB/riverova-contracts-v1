@@ -213,7 +213,7 @@ describe("RiverovaEducation", function () {
       await education.connect(learner2).registerLearner("es");
       await education.connect(learner2).enrollInCourse(2);
       
-      // 70% score should give Specialist (level 3)
+      // 75% score should give Specialist (level 3) - score range 70-79%
       await education.connect(instructor).completeCourse(
         learner2.address,
         2,
@@ -221,6 +221,7 @@ describe("RiverovaEducation", function () {
         "QmHash"
       );
 
+      // This is the first achievement in this test (achievementId=1)
       const achievement = await education.getAchievement(1);
       expect(achievement.level).to.equal(3); // Specialist
 
