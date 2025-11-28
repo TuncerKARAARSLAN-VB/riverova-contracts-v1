@@ -1,4 +1,4 @@
-![Riverova](./images/nft8.jpeg)
+![Riverova](./images/ai-models.jpeg)
 
 # 🚀 riverova-contracts-v1: DAO & NFT Certification Core
 
@@ -21,6 +21,8 @@ The V1 contract architecture is modular and focuses on establishing the core Tru
 * **Purpose:** To secure all user achievements (from basic competency to Global Leadership) as verifiable, immutable NFTs.
 * **Standard:** ERC-721/ERC-1155 for mass minting.
 * **Metadata:** Uses IPFS for secure, permanent storage of achievement metadata (Level, Date, User Hash).
+
+![Riverova](./images/nft8.jpeg)
 
 ## 💰 Micro-Grant Milestone Focus: The Governance Core
 
