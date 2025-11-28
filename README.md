@@ -1,4 +1,4 @@
-![Riverova](./images/riverova-logo.png)
+![Riverova](./images/nft8.jpeg)
 
 # 🚀 riverova-contracts-v1: DAO & NFT Certification Core
 
