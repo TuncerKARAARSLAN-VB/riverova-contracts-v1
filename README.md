@@ -60,6 +60,6 @@ Completion of this V1 module secures the integrity of the Riverova network, ensu
 ---
 **Links:**
 
-* **Project Website:** [riverova.com](http://riverova.com/index.html)
-* **Project Website:** [riverova.com](http://riverova.com/yatirim.html)
+* **Project Website:** [riverova.com](http://riverova.com/index-eng.html)
+* **Project Website:** [riverova.com](http://riverova.com/investment-eng.html)
 * **DAO Litepaper (Coming Soon):** [link to be updated]
