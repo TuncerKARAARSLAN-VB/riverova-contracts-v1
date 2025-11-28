@@ -62,4 +62,4 @@ Completion of this V1 module secures the integrity of the Riverova network, ensu
 
 * **Project Website:** [riverova.com](http://riverova.com/index-eng.html)
 * **Project Website:** [riverova.com](http://riverova.com/investment-eng.html)
-* **DAO Litepaper (Coming Soon):** [link to be updated]
+* **DAO Litepaper:** [DAO Litepaper](./DAO_Litepaper.md)
