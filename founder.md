@@ -9,8 +9,8 @@ Riverova is the culmination of my 35+ years of engineering and 25+ years of corp
 My expertise directly aligns with and empowers Riverova's dual model (Corporate Subscriptions + Public Goods DAO) and its ambitious technical architecture:
 
 ### 1. 🌐 Global Education Leadership & Corporate Scale (25+ Years)
-* **Co-Founder & Board Member (BilgeAdam):** I am a co-founder of BilgeAdam Information Technologies Academy, recognized as a global Microsoft Authorized Training Center, where I served on the board for over 6 years. This experience provides the unique foundation for Riverova's corporate integration, B2B sales strategy, and the architecture of the **8-Level NFT Certification system** (ensuring globally verifiable standards).
-* **25+ Years Corporate Training Expertise:** My 25+ years of designing and delivering high-impact, custom corporate training programs guarantee that Riverova's AI-generated content will meet the quality standards demanded by the most rigorous enterprise clients.
+* **Co-Founder & Board Member (BilgeAdam):** I am a co-founder of BilgeAdam Information Technologies Academy, recognized as a global Microsoft Authorized Training Center, where I served on the board for over 6 years. This provides the unique foundation for Riverova's corporate integration, B2B sales strategy, and the architecture of the **8-Level NFT Certification system** (ensuring globally verifiable standards).
+* **25+ Years Corporate Training Expertise:** My 25+ years of designing and delivering high-impact corporate training programs guarantee that Riverova's AI-generated content will meet the quality standards demanded by the most rigorous enterprise clients.
 
 ### 2. 💻 Deep Technology & AI Infrastructure (35+ Years Engineering)
 * **35 Years of Computer Engineering Background:** My extensive engineering career forms the technical backbone for Riverova's massive scale. This includes the ability to architect high-availability systems (Kubernetes, DevOps) and ensures the robust development of the **AI Orchestration Core** necessary to serve 650M+ users.
@@ -22,6 +22,6 @@ My expertise directly aligns with and empowers Riverova's dual model (Corporate 
 
 ## Connect & Verify
 
-* **LinkedIn:** [**https://www.linkedin.com/in/tuncerkaraarslan/**]
-* **Enterprise Web site:** [**https://www.vebende.com.tr/**]
-* **GitHub:** [**https://github.com/TuncerKARAARSLAN-VB/**]
+* **LinkedIn:** [https://www.linkedin.com/in/tuncerkaraarslan/]
+* **Enterprise Web site:** [https://www.vebende.com.tr/]
+* **GitHub:** [https://github.com/TuncerKARAARSLAN-VB/]
