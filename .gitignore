@@ -1,0 +1,44 @@
+# -------------------------------------------------------------------
+# General Exclusion Rules (Standard for Node/Hardhat Projects)
+# -------------------------------------------------------------------
+
+# Node dependencies
+/node_modules
+
+# Build artifacts
+/build
+/artifacts
+/cache
+/coverage
+/coverage.json
+
+# Hardhat network files
+/localhost
+/deployments/localhost
+
+# Deployment metadata (may contain sensitive addresses or ABI)
+/*.json
+
+# -------------------------------------------------------------------
+# Security Exclusion Rules (Crucial for Hibe Applications)
+# -------------------------------------------------------------------
+
+# Environment variables containing private keys and API keys
+.env 
+
+# Test reports/files
+/test-results
+
+# Wallets and Keystores (In case any wallet file is stored locally)
+*.pfx
+*.pem
+*.key
+*.keys
+*.cer
+
+# -------------------------------------------------------------------
+# OS and Editor Specific Files
+# -------------------------------------------------------------------
+
+.DS_Store
+Thumbs.db
