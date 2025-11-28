@@ -1,3 +1,5 @@
+![Riverova](./images/riverova-logo.png)
+
 # 🚀 riverova-contracts-v1: DAO & NFT Certification Core
 
 ## About Riverova: The Decentralized Public Goods Education Infrastructure
