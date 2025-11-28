@@ -20,6 +20,14 @@ The V1 contract architecture is modular and focuses on establishing the core Tru
 * **Standard:** ERC-721/ERC-1155 for mass minting.
 * **Metadata:** Uses IPFS for secure, permanent storage of achievement metadata (Level, Date, User Hash).
 
+## 💰 Micro-Grant Milestone Focus: The Governance Core
+
+While Riverova has multiple concurrent grant applications and a massive financial roadmap (targeting $15B USD valuation post-IPO), this specific repository is tied to our **$12,000 USD Micro-Grant**.
+
+> **Milestone:** DAO Governance Mechanism Development and Initial Security Audit.
+
+**The $12,000 is critical to finance the proof-of-concept for the decentralized voting system, which is the cornerstone for scaling all other systems (AI production, content validation, and community platform).** Completion of this V1 module secures the integrity of the entire Riverova network.
+
 * ## Technical Specifications
 
 | Feature | Specification | Rationale |
